@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "DAI",
+	"tokenName": "DAI",
+	"tokenAddress": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+	"mldId": "avalanche-DAI-0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+	"tokenIcon": "/static/tokens/DAI.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 18,
+	"CMCslug": "multi-collateral-dai",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

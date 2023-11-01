@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "tBTC",
+	"tokenName": "tBTC",
+	"tokenAddress": "placeholder btc cardano",
+	"mldId": "cardano-preprod-tBTC-placeholder btc cardano",
+	"tokenIcon": "/static/tokens/BTC.svg",
+	"tokenColorTheme": null,
+	"tokenType": "native-cardano",
+	"decimals": 8,
+	"CMCslug": "bitcoin",
+	"isStableCoin": false,
+	"isNative": true,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "ENJ",
+	"tokenName": "ENJ",
+	"tokenAddress": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
+	"mldId": "ethereum-ENJ-0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
+	"tokenIcon": "/static/tokens/ENJ.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 18,
+	"CMCslug": "enjin-coin",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

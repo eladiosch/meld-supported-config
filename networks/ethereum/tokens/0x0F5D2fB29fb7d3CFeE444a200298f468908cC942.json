@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "MANA",
+	"tokenName": "MANA",
+	"tokenAddress": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+	"mldId": "ethereum-MANA-0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+	"tokenIcon": "/static/tokens/MANA.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 18,
+	"CMCslug": "decentraland",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

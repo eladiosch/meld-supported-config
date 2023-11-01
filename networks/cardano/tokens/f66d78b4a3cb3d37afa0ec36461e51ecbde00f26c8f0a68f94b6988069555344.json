@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "iUSD",
+	"tokenName": "iUSD",
+	"tokenAddress": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069555344",
+	"mldId": "cardano-iUSD-f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069555344",
+	"tokenIcon": "/static/tokens/IndigoUSD.svg",
+	"tokenColorTheme": null,
+	"tokenType": "CNT",
+	"decimals": 6,
+	"CMCslug": "indigo-protocol-iusd",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

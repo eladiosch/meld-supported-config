@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "BADGER",
+	"tokenName": "BADGER",
+	"tokenAddress": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+	"mldId": "ethereum-BADGER-0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+	"tokenIcon": "/static/tokens/BADGER.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 18,
+	"CMCslug": "badger-dao",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

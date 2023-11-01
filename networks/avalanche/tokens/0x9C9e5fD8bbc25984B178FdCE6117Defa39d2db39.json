@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "BUSD",
+	"tokenName": "BUSD",
+	"tokenAddress": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+	"mldId": "avalanche-BUSD-0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+	"tokenIcon": "/static/tokens/BUSD.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 18,
+	"CMCslug": "binance-usd",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

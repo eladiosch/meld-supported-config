@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "tBTC",
+	"tokenName": "tBTC",
+	"tokenAddress": "placeholder btc mumbai",
+	"mldId": "mumbai-tBTC-placeholder btc mumbai",
+	"tokenIcon": "/static/tokens/BTC.svg",
+	"tokenColorTheme": null,
+	"tokenType": "native-evm",
+	"decimals": 8,
+	"CMCslug": "bitcoin",
+	"isStableCoin": false,
+	"isNative": true,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

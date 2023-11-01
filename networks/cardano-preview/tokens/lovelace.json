@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "tADA",
+	"tokenName": "tADA",
+	"tokenAddress": "lovelace",
+	"mldId": "cardano-preview-tADA-lovelace",
+	"tokenIcon": "/static/tokens/ADA.svg",
+	"tokenColorTheme": null,
+	"tokenType": "native-cardano",
+	"decimals": 6,
+	"CMCslug": "cardano",
+	"isStableCoin": false,
+	"isNative": true,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

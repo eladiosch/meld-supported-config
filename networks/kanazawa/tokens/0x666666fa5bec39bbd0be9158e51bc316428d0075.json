@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "tAVAX",
+	"tokenName": "twAVAX",
+	"tokenAddress": "0x666666fa5bec39bbd0be9158e51bc316428d0075",
+	"mldId": "kanazawa-tAVAX-0x666666fa5bec39bbd0be9158e51bc316428d0075",
+	"tokenIcon": "/static/tokens/AVAX.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 18,
+	"CMCslug": "avalanche",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

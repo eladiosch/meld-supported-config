@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "USDT",
+	"tokenName": "USDT",
+	"tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+	"mldId": "ethereum-USDT-0xdAC17F958D2ee523a2206206994597C13D831ec7",
+	"tokenIcon": "/static/tokens/TETHER.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 6,
+	"CMCslug": "tether",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}
