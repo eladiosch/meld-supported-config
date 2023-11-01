@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "BTC",
+	"tokenName": "wBTC",
+	"tokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+	"mldId": "ethereum-BTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+	"tokenIcon": "/static/tokens/WBTC.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 8,
+	"CMCslug": "wrapped-bitcoin",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

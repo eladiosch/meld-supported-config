@@ -1,0 +1,12 @@
+{
+  "name": "avalanche",
+  "rpcServerUrl": "https://api.avax.network/ext/bc/C/rpc",
+  "evmChainId": 43114,
+  "defaultTokenSymbol": "AVAX",
+  "explorerUrl": "https://subnets.avax.network/c-chain",
+  "chainType": "EVM",
+  "lightIcon": "/static/networks/AvLight.svg",
+  "darkIcon": "/static/networks/AvDark.svg",
+  "decimals": 18,
+  "confirmationTime": 60
+}

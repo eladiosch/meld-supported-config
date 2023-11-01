@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "MULTI",
+	"tokenName": "MULTI",
+	"tokenAddress": "0x65Ef703f5594D2573eb71Aaf55BC0CB548492df4",
+	"mldId": "ethereum-MULTI-0x65Ef703f5594D2573eb71Aaf55BC0CB548492df4",
+	"tokenIcon": "/static/tokens/MULTI.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 18,
+	"CMCslug": "multichain",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

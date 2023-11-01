@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "tETH",
+	"tokenName": "tETH",
+	"tokenAddress": "placeholder eth kanazawa",
+	"mldId": "kanazawa-tETH-placeholder eth kanazawa",
+	"tokenIcon": "/static/tokens/ETH.svg",
+	"tokenColorTheme": null,
+	"tokenType": "native-evm",
+	"decimals": 18,
+	"CMCslug": "ethereum",
+	"isStableCoin": false,
+	"isNative": true,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

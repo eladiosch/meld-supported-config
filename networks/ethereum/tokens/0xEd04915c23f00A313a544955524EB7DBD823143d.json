@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "ACH",
+	"tokenName": "ACH",
+	"tokenAddress": "0xEd04915c23f00A313a544955524EB7DBD823143d",
+	"mldId": "ethereum-ACH-0xEd04915c23f00A313a544955524EB7DBD823143d",
+	"tokenIcon": "/static/tokens/ACH.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 8,
+	"CMCslug": "alchemy-pay",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

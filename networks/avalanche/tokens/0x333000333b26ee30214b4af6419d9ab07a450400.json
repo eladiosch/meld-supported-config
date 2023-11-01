@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "MELD",
+	"tokenName": "MELD",
+	"tokenAddress": "0x333000333b26ee30214b4af6419d9ab07a450400",
+	"mldId": "avalanche-MELD-0x333000333b26ee30214b4af6419d9ab07a450400",
+	"tokenIcon": "/static/tokens/MELD.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 18,
+	"CMCslug": "meld",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

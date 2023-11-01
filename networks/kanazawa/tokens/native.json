@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "tgMELD",
+	"tokenName": "tgMELD",
+	"tokenAddress": "native",
+	"mldId": "kanazawa-tgMELD-native",
+	"tokenIcon": "/static/tokens/MELD.svg",
+	"tokenColorTheme": null,
+	"tokenType": "native-evm",
+	"decimals": 18,
+	"CMCslug": "meld",
+	"isStableCoin": false,
+	"isNative": true,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

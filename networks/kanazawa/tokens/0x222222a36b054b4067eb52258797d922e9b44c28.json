@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "tETH",
+	"tokenName": "twETH",
+	"tokenAddress": "0x222222a36b054b4067eb52258797d922e9b44c28",
+	"mldId": "kanazawa-tETH-0x222222a36b054b4067eb52258797d922e9b44c28",
+	"tokenIcon": "/static/tokens/ETH.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 18,
+	"CMCslug": "ethereum",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

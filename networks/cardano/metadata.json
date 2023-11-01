@@ -1,0 +1,12 @@
+{
+  "name": "cardano",
+  "rpcServerUrl": "",
+  "evmChainId": 0,
+  "defaultTokenSymbol": "ADA",
+  "explorerUrl": "https://cexplorer.io",
+  "chainType": "cardano",
+  "lightIcon": "/static/networks/CardanoLight.svg",
+  "darkIcon": "/static/networks/CardanoDark.svg",
+  "decimals": 6,
+  "confirmationTime": 60
+}

@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "1INCH",
+	"tokenName": "1INCH",
+	"tokenAddress": "0x111111111117dC0aa78b770fA6A738034120C302",
+	"mldId": "ethereum-1INCH-0x111111111117dC0aa78b770fA6A738034120C302",
+	"tokenIcon": "/static/tokens/1INCH.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 18,
+	"CMCslug": "1inch",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

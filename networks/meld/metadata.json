@@ -1,0 +1,12 @@
+{
+  "name": "meld",
+  "rpcServerUrl": "https://subnets.avax.network/meld/mainnet/rpc",
+  "evmChainId": 333000333,
+  "defaultTokenSymbol": "gMELD",
+  "explorerUrl": "https://subnets.avax.network/meld",
+  "chainType": "EVM",
+  "lightIcon": "/static/networks/MeldLight.svg",
+  "darkIcon": "/static/networks/MeldDark.svg",
+  "decimals": 18,
+  "confirmationTime": 60
+},

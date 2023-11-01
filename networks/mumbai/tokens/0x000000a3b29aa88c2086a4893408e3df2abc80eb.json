@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "tUSDC",
+	"tokenName": "tUSDC",
+	"tokenAddress": "0x000000a3b29aa88c2086a4893408e3df2abc80eb",
+	"mldId": "mumbai-tUSDC-0x000000a3b29aa88c2086a4893408e3df2abc80eb",
+	"tokenIcon": "/static/tokens/USDC.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 6,
+	"CMCslug": "usd-coin",
+	"isStableCoin": true,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

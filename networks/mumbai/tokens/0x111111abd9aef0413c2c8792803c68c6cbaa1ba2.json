@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "tUSDT",
+	"tokenName": "tUSDT",
+	"tokenAddress": "0x111111abd9aef0413c2c8792803c68c6cbaa1ba2",
+	"mldId": "mumbai-tUSDT-0x111111abd9aef0413c2c8792803c68c6cbaa1ba2",
+	"tokenIcon": "/static/tokens/TETHER.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 6,
+	"CMCslug": "tether",
+	"isStableCoin": true,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

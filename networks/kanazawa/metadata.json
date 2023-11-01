@@ -1,0 +1,12 @@
+{
+  "name": "kanazawa",
+  "rpcServerUrl": "https://subnets.avax.network/meld/testnet/rpc",
+  "evmChainId": 222000222,
+  "defaultTokenSymbol": "tgMELD",
+  "explorerUrl": "https://subnets-test.avax.network/meld",
+  "chainType": "EVM",
+  "lightIcon": "/static/networks/MeldLight.svg",
+  "darkIcon": "/static/networks/MeldDark.svg",
+  "decimals": 18,
+  "confirmationTime": 60
+}

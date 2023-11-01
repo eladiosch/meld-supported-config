@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "SUSHI",
+	"tokenName": "SUSHI",
+	"tokenAddress": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+	"mldId": "ethereum-SUSHI-0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+	"tokenIcon": "/static/tokens/SUSHI.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 18,
+	"CMCslug": "sushiswap",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

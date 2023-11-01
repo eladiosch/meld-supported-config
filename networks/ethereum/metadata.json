@@ -1,0 +1,12 @@
+{
+  "name": "ethereum",
+  "rpcServerUrl": "https://meld:mQnSo9m9SVkQUjhnMwdy@meld-ethereum-mainnet-3ubg93.zeeve.net/rpc",
+  "evmChainId": 1,
+  "defaultTokenSymbol": "ETH",
+  "explorerUrl": "https://etherscan.io",
+  "chainType": "EVM",
+  "lightIcon": "/static/networks/EthLight.svg",
+  "darkIcon": "/static/networks/EthDark.svg",
+  "decimals": 18,
+  "confirmationTime": 60
+},

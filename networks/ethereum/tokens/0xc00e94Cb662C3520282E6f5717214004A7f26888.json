@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "COMP",
+	"tokenName": "COMP",
+	"tokenAddress": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+	"mldId": "ethereum-COMP-0xc00e94Cb662C3520282E6f5717214004A7f26888",
+	"tokenIcon": "/static/tokens/COMP.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 18,
+	"CMCslug": "compound",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

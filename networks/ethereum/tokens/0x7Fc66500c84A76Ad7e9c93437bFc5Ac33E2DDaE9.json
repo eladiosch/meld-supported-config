@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "AAVE",
+	"tokenName": "AAVE",
+	"tokenAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+	"mldId": "ethereum-AAVE-0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+	"tokenIcon": "/static/tokens/AAVE.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 18,
+	"CMCslug": "aave",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}

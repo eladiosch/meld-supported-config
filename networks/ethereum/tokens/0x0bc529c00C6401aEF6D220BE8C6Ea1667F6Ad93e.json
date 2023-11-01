@@ -1,0 +1,17 @@
+{
+	"tokenTicker": "YFI",
+	"tokenName": "YFI",
+	"tokenAddress": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+	"mldId": "ethereum-YFI-0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+	"tokenIcon": "/static/tokens/YFI.svg",
+	"tokenColorTheme": null,
+	"tokenType": "ERC20",
+	"decimals": 18,
+	"CMCslug": "yearn-finance",
+	"isStableCoin": false,
+	"isNative": false,
+	"isWrapped": null,
+	"isBridged": null,
+	"orgName": null,
+	"orgUrl": null
+}
