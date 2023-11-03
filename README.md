@@ -216,7 +216,7 @@ The full list of colour themes is
 
 | ID  | HEX | |
 |----|---------|---------|
-| 1  | #e51b44 |<div style='width: 50px; height: 10px; background: #e51b44'></div>|
+| 1  | #e51b44 |<span style='width: 50px; height: 10px; background: #e51b44'></span>|
 | 2  | #2775ca |<div style='width: 50px; height: 10px; background: #2775ca'></div>|
 | 3  | #e4a62a |<div style='width: 50px; height: 10px; background: #e4a62a'></div>|
 | 4  | #50AF95 |<div style='width: 50px; height: 10px; background: #50AF95'></div>|
