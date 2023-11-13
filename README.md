@@ -14,6 +14,18 @@ Each token is represented by a json file containing the details of the token or 
 
 These mini config files are grouped by network (`meld`, `kanazawa` etc). We validate this list, checking for duplication, invalid schemas etc, then concatanate them into a config file _per_ network.
 
+Network options that are currently supported are:
+
+
+| NETWORK  |
+|----|
+| ethereum  |
+| meld  |
+| kanazawa  |
+| cardano-preview  |
+| cardano-preprod  |
+| cardano  |
+
 Our backend & frontend services then consume that config.
 
 ## ERC20 Token Support
@@ -31,7 +43,10 @@ Our backend & frontend services then consume that config.
   "tokenAddress": "0x777777fdd5026127f247aa92ba6dbd0ec882b095",
     
 //This is the MELD internal address for a token. It is produced based on this model {network}-{tokenTicker}-{tokenAddress}.
-  "mldId": "MELD-JOE-0x777777fdd5026127f247aa92ba6dbd0ec882b095",
+  "mldId": "meld-JOE-0x777777fdd5026127f247aa92ba6dbd0ec882b095",
+
+//This is the blockchain in which this token was orgininally minted.
+  "chainName": "ethereum",
     
 //This flags the asset as the 'main' asset in a group of assets that could include bridges, wrapped and tokens on other chains.
   "isPartent": false,
@@ -66,8 +81,8 @@ Our backend & frontend services then consume that config.
 //This flags that the asset is in the origial or 'main' asset. 
   "isBridged": true
 
-  //This is the IRL organization name.
-  "orgName": "Nakamigos",
+//This is the IRL organization name.
+"orgName": "Nakamigos",
 
 //This is the organization or project URL.
   "orgUrl": "https://nakamigos.io",
@@ -81,7 +96,8 @@ For example:
 	"tokenTicker": "MELD",
 	"tokenName": "MELD",
 	"tokenAddress": "0x333000333b26ee30214b4af6419d9ab07a450400",
-	"mldId": "ETH-MELD-0x333000333b26ee30214b4af6419d9ab07a450400",
+	"mldId": "ethereum-MELD-0x333000333b26ee30214b4af6419d9ab07a450400",
+	"chainName": "ethereum"
 	"tokenIcon": "/static/tokens/MELD.svg",
 	"tokenColorTheme": "#e51b44",
 	"tokenType": "ERC20",
@@ -139,8 +155,8 @@ For example:
 //This is the maximum numner of assets under this specific deployer.
   "maxSupply": 20000,
 
-//mldId is setup based on the following: {tokenTicker}-{tokenAddress}-{tokenID}
-  "mldId": "ETH-NKMGS-0x777777fdd5026127f247aa92ba6dbd0ec882b095-8990",
+//mldId is setup based on the following: {network}-{tokenTicker}-{tokenAddress}-{tokenID}
+  "mldId": "ethereum-NKMGS-0x777777fdd5026127f247aa92ba6dbd0ec882b095-8990",
     
 //The URL where the metadata can be found.
   "metaURL": "ipfs://QmaN1jRPtmzeqhp6s3mR1SRK4q1xWPvFvwqW1jyN6trir9/8990",
@@ -149,7 +165,7 @@ For example:
   "assetURL": "ipfs://QmYhWbMgfAjkFGf9U7ueut9csL3PpJ7fosY2VKJQmG9VH2",
 
 //This is the blockchain in which this token was orgininally minted.
-  "chainId": 1,
+  "chainName": "ethereum",
 
 //This is the royalties the authoer gets per transaction. The number is from 0 to 50.
   "royalties": 5,
@@ -193,10 +209,10 @@ For example:
   "authorsName": "Nakamigos-Deployer",
   "authorAddress": "0xFCD457B27EE149E74A080B2a4e482D9A5dBaf3d9",
   "maxSupply": 20000,
-  "mldId": "NKMGS-0x777777fdd5026127f247aa92ba6dbd0ec882b095-8990",
+  "mldId": "ethereum-NKMGS-0x777777fdd5026127f247aa92ba6dbd0ec882b095-8990",
   "metaURL": "ipfs://bafybeih6w5u6lrtgjny462e4kposywwzksvg4rsdp6c55g5shpe3hs2x3q/1/690.json",
   "assetURL": "ipfs://QmXUWxunVioYiTwfqisx6f8V5zPX1aAJtmn4KwQgnEkjrj",
-  "chainId": 1,
+  "chainName": "ethereum",
   "royalties": 5,
   "nftType": "PFP",
   "is1of1": false,
