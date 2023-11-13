@@ -81,7 +81,7 @@ For example:
 	"tokenTicker": "MELD",
 	"tokenName": "MELD",
 	"tokenAddress": "0x333000333b26ee30214b4af6419d9ab07a450400",
-	"mldId": "ethereum-MELD-0x333000333b26ee30214b4af6419d9ab07a450400",
+	"mldId": "ETH-MELD-0x333000333b26ee30214b4af6419d9ab07a450400",
 	"tokenIcon": "/static/tokens/MELD.svg",
 	"tokenColorTheme": "#e51b44",
 	"tokenType": "ERC20",
@@ -140,7 +140,7 @@ For example:
   "maxSupply": 20000,
 
 //mldId is setup based on the following: {tokenTicker}-{tokenAddress}-{tokenID}
-  "mldId": "NKMGS-0x777777fdd5026127f247aa92ba6dbd0ec882b095-8990",
+  "mldId": "ETH-NKMGS-0x777777fdd5026127f247aa92ba6dbd0ec882b095-8990",
     
 //The URL where the metadata can be found.
   "metaURL": "ipfs://QmaN1jRPtmzeqhp6s3mR1SRK4q1xWPvFvwqW1jyN6trir9/8990",
